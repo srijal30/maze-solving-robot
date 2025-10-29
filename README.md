@@ -13,4 +13,6 @@ For this project, a variety of custom drivers had to be programmed to facilitate
 - Seven-segement display
 - Motor Driver
 - Encoders
-- Built-in Hardware Timer
+- Hardware Timer
+
+Implemented a finite state machine-based task scheduler, allowing high-level logic, ultrasonic sensor, motor PID, and seven-segment display to run simultaneously.
