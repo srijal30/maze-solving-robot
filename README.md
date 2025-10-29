@@ -15,4 +15,4 @@ For this project, a variety of custom drivers had to be programmed to facilitate
 - Encoders
 - Hardware Timer
 
-Additionally, implemented a basic FSM task scheduler, allowing multiple processes to run simultaneously (motor PID, seven-segment controller, encoder updates, and ultrasonic sensor readings)
+Additionally, implemented a basic FSM task scheduler, allowing multiple processes to run simultaneously (motor PID, seven-segment controller, encoder updates, and ultrasonic sensor readings).
